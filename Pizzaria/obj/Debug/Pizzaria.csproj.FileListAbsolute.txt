@@ -1,0 +1,7 @@
+c:\users\chouda\source\repos\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+c:\users\chouda\source\repos\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+c:\users\chouda\source\repos\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+c:\users\chouda\source\repos\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+c:\users\chouda\source\repos\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+c:\users\chouda\source\repos\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+c:\users\chouda\source\repos\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
